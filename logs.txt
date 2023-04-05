@@ -1,0 +1,56 @@
+commit 007243b089fbab93b171dd4e77dedb7c4dd965f4
+Author: Vlado Dimovski <vladodimovski99@gmail.com>
+Date:   Wed Apr 5 22:43:55 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 2eb5011cebfdb1977d0c940c083718d27079cf21
+Merge: de6d097 ccc33cc
+Author: Vlado Dimovski <vladodimovski99@gmail.com>
+Date:   Wed Apr 5 22:46:20 2023 +0200
+
+    Merge branch 'bug2'
+
+commit ccc33ccfa00789de69cd675bc0232824ba482f5f
+Author: Vlado Dimovski <vladodimovski99@gmail.com>
+Date:   Wed Apr 5 22:42:33 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit de6d097e786d0bbc1a73d9d1254c56e467f6d881
+Author: Vlado Dimovski <vladodimovski99@gmail.com>
+Date:   Wed Apr 5 22:40:59 2023 +0200
+
+    Revert "Fix wrong condition in filterOddNumbers"
+    
+    This reverts commit 1ba2cabac9143418e0b75773f8238f5eed2c81bf.
+
+commit 1ba2cabac9143418e0b75773f8238f5eed2c81bf
+Author: Vlado Dimovski <vladodimovski99@gmail.com>
+Date:   Wed Apr 5 22:40:32 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 178bc5943e4c2dde7a0d76010d2251a3841acc50
+Author: Vlado Dimovski <vladodimovski99@gmail.com>
+Date:   Wed Apr 5 22:38:20 2023 +0200
+
+    Fix wrong loop for reading
+
+commit b0399960271d710c38906408b04429ef81a13b45
+Author: Vlado Dimovski <vladodimovski99@gmail.com>
+Date:   Wed Apr 5 22:31:46 2023 +0200
+
+    Fixing mistake in input of numbers
+
+commit a234f22632f610938995a225fbc844a1eccffeb7
+Author: Vlado Dimovski <vladodimovski99@gmail.com>
+Date:   Wed Apr 5 22:23:38 2023 +0200
+
+    Add java class
+
+commit 5ebf7a70665c7b2de2e359805d6889392af11265
+Author: Vlado Dimovski <vladodimovski99@gmail.com>
+Date:   Wed Apr 5 21:32:27 2023 +0200
+
+    first commit si
