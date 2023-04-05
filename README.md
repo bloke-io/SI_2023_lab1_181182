@@ -1,1 +1,1 @@
-# SI_2023_lab1_181182
+# vlado_dimovski_181182
