@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class SILab1 {
-    public static List<Integer> filterOddNumbers(List<Integer> list) {
+     public static List<Integer> filterOddNumbers(List<Integer> list) {
         List<Integer> result = new ArrayList<>();
         for (Integer el : list) {
             if (el % 2 == 0) {
