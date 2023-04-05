@@ -1,1 +1,59 @@
-181182
+4. mkdir si 
+git init
+git remote set-url origin https://github.com/OWNER/REPOSITORY.git
+5. git push
+6. echo "vlado_dimovski_181182" >> README.md
+7. vim S1Lab.java (copy paste unatre)
+git add S1Lab.java
+git commit -m "Add java class"
+git push
+8 & 9. git checkout -b bug1
+    git push --set-upstream origin bug1
+git switch master
+git checkout -b bug2
+    git push --set-upstream origin bug2
+git switch master
+git checkout -b bug3
+    git push --set-upstream origin bug3
+10. git switch bug1
+11.vim SILab.java i promeni soodvetni
+git add .
+git commit -m "Fix wrong loop for reading"
+git push
+12. git switch bug2
+13. vim SILab.java i soodvetni promeni
+git add .
+git commit -m "Fix wrong condition in filterOddNumbers"
+git push
+14. git switch bug3
+15. vim SILab.java i soodvetni promeni
+git add .
+git commit -m "Fix method sumEvenNumbers"
+git push
+16. git push(done before)
+17. git switch master
+18. git merge bug1
+git add . 
+git push
+19. git fetch
+git pull
+20. git merge bug2
+git add .
+git push
+21. git fetch
+git pull
+22. git switch bug3
+23. git rebase master
+24. git switch master
+25. git merge bug3
+ se slucija konflikti ama gi overridenav so force push
+git add .
+26. git push
+27. git log >> logs.txt
+ echo "181182" >> 181182.txt
+28. git add .
+git commit -m "Final commit"
+git push
+
+
+
